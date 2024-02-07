@@ -1,3 +1,12 @@
+#Productivity Dashboard App
+
+
+
+This is an app created using React and using the **openweather API** to get the weather at the user's location and **unsplash API** to get a background image. We also have an editable To Do list that gets saved to **local storage**. We make use of CSS Grid to layout the elements on the page.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
